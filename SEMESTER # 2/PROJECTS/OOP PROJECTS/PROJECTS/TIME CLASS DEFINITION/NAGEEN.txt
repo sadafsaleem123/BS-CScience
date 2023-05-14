@@ -1,0 +1,52 @@
+#include<iostream>
+#include<iomanip>
+using namespace std;
+class Time{
+	private:
+		int hour;
+		int minute;
+		int second;
+	public:
+		Time(int a=0, int b=0, int c=0): hour(a),minute(b),second(c) {
+		}
+	void setTime(int x, int y, int z){hour=x, minute=y, second=z; }
+	void setHour(int a){hour=a; }
+	void setMinute(int b){minute=b; }
+	void setSecond(int c){second=c; }
+	int getHour(){return hour;
+	}
+	int getMinute(){return minute;
+	}
+	int getSecond(){return second;
+	}
+	void printUniversal(){
+		cout<<"Universal time format is::  "<<hour<<":"<<minute<<":"<<second;
+	}
+	void printStandard(){
+		cout <<"standard time format is::  "<< ( ( getHour() == 0 || getHour() == 12 ) ? 12 : getHour() % 12 ) << ":" << getMinute()
+        << ":"  << getSecond() << ( hour < 12 ? " AM" : " PM" );
+	}
+
+
+};
+int main() {
+    Time t1,t2( 2 ),t3( 21, 34 ),t4( 12, 25, 42 ); 
+	cout << "Constructed with:\n\nt1:all arguments defaulted\n" ; 
+	t1.printUniversal(); 
+	cout << "\n" ; 
+	t1.printStandard(); 
+	cout << "\n\nt2: hour specified; minute and seconddefaulted\n "; 
+	t2.printUniversal();  
+	cout << "\n" ; 
+	t2.printStandard(); 
+	cout << "\n\nt3: hour andminute specified; seconddefaulted\n "; 
+	t3.printUniversal(); 
+	cout << "\n" ; 
+	t3.printStandard(); 
+	cout << "\n\nt4: hour, minute andsecond specified\n "; 
+	t4.printUniversal();  
+	cout << "\n" ; 
+	t4.printStandard(); 
+	Time t5( 27, 74, 99 );
+	return 0;
+}
