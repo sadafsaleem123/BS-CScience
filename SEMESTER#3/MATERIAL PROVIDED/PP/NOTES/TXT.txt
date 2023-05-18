@@ -1,0 +1,1759 @@
+  
+
+Introduction
+
+L} Profession: A paid occupation, especially one that involves
+
+prolonged training and a format qualification.
+
+L} Professional: A professional is a member of a profession or any
+person who earns their living from a specified professional
+activity. The term also describes the standards of education and
+training that prepare members of the profession with the
+
+rticular knowledge and skills necessary to perform their
+
+ithin that profession.
+
+rages
+
+ed with CamScanner
+Engineering Counci/ states that other than
+professional Knowledge, an Engineer must
+know
+
+L) Technical decision making and its commercial and economic
+implementation;...knowledge of government legislation
+affecting work, e.g. safety, health, environmental requirements;
+an understanding of the principles of management and
+industrial relations; some knowledge of trade unions and their
+
+rganization; an understanding of the engineer’s responsibility
+
+   
+
+ion, to the community and to the environment
+The Professionalism
+
+LI A profession isn’t just what you do, it’s who you are.
+
+LI Professionalism is a way of thinking and living rather than an
+
+accumulation of learning.
+
+ 
+Traits of a Profession
+
+Four Traits of Profession
+1. Varied activities requiring special skills
+2. Society-centric motivation
+
+3. Personal standards of excellence
+
+4. Giving back to society
+
+ 
+A professional behaves ethically
+
+LL) Ethics means something more than ‘law’ and ‘morals’.
+
+LJ It carries an additional connotation of ‘rightness’.
+
+ 
+
+= Breaking the law: can earn a fine or jail time
+
+= Breaking amoral: can ruin your reputation
+
+ 
+
+= Breaking an ethic: can ruin your conscience
+
+ 
+
+It’s possible to break all three, simultaneously:
+
+ed with CamScanner
+Traits of a Professional
+
+) Being a professional means that they are certain traits which are
+
+expected from you.
+
+CL) We will go through Each of them
+
+ 
+Trait # 1 of a professional: Seriousness
+
+C) Serious about job
+
+LL) The job is only a job. A means to an end
+
+ 
+Trait # 2 of a professional: Wanting to do
+better
+
+(1) Exhibit a never-ending quest to improve their performance in
+
+every variable, every project, every relationship, and every
+
+detail.
+
+ 
+Trait # 3 of a professional: Dealing with the
+Unexpected
+
+LJ Stuff happens, things change, and the true professional rises to
+
+the occasion
+
+ 
+Trait # 4 of a professional: Communication
+Skills
+
+L) Clear
+
+LJ Concise
+
+LJ Confident
+
+ 
+Trait # 5 of a professional: Enthusiasm
+
+L) Attitude is everything. Those who exhibit enthusiasm for what
+
+they do and greet each day with a positive attitude inevitably
+
+become a leader
+
+ 
+Trait # 6 of a professional: Helpfulness
+
+CL) Understand that real success in the workplace requires teamwork
+CL) Always ready to lend a hand
+L} Make a suggestion
+
+L) Offer a compliment when it’s deserved
+
+ 
+Trait # 7 of a professional: Taking the
+Initiative
+
+C) Takes the initiative to get things done
+
+ 
+Trait # 8 of a professional: Cool under
+Pressure
+
+LJ Level headed and calm
+
+LJ Cheerful demeanor-even under stressfwl times
+
+ 
+Trait # 9 of a professional: Remains Focused
+
+LL) Stay focused on the task at hand and the goal ahead
+
+L) Navigate through obstacles or setbacks but never lose sight of
+
+where they headed
+
+ 
+Trait # 10 of a professional: Don’t Follow,
+Lead
+
+(J True Professionals aren’t faint of heart
+
+ 
+
+CL) Analyze the situation and willing to take new paths and try new
+
+solutions
+
+QC) That’s why they call it LEADERSHIP:
+
+ 
+Applying Professionalism in Real Life
+
+Scenario #1
+
+L} You are the owner of a software engineering company. Your
+employees (engineers) want you to pay for them to attend
+training.
+
+LJ How would you respond in a way that is legal, moral, and
+
+ethical?
+
+ 
+Scenario #2
+
+LJ You are the owner of a software engineering company. Your
+employees (engineers) want you to let them do pro bono work
+
+for a local non-profit organization on company time.
+
+LJ How would you respond in a way that is legal, moral, and
+
+ethical?
+
+ 
+
+oO
+Scenario #3
+
+L) You are a software engineer at a company where management
+
+routinely encourages you and your colleagues to use pirated
+
+software.
+
+CL) How would you respond in a way that is legal, moral, and
+
+ethical?
+
+ 
+
+oO
+Introduction
+
+L) Law:
+
+Rules that mandate or prohibit certain behavior in society.
+
+L) Moral Values:
+
+The fixed moral attitudes or customs of a particular group
+
+LJ Ethics:
+
+Define socially acceptable behaviors.
+
+ 
+
+amScanner
+Code of Ethics
+
+           
+
+LJ Established by various professional organizations
+
+= Produce a positive effect on judgment.
+
+= Establishes responsibility of professionals to act ethically
+according to the policies and procedures of their employers,
+professional organizations, and laws of society.
+
+= Organizations assume responsibility to develop, disseminate,
+
+and enforce policies.
+
+macht |=
+
+ed with CamScanner
+
+Scann
+Code of Ethics’ Goals
+
+Provides an aid to individual decision making, presentation
+
+addresses nine different cases (with some overlap).
+
+(2 Intellectual property
+C) Privacy
+
+LJ Confidentiality
+
+C) Professional quality
+
+C} Fairness or discrimination
+
+CL} Liability
+0
+
+ 
+     
+
+oftware risks
+
+nauthorized access to computer systems
+
+iat: [e |)
+
+ed with CamScanner
+IEEE Code of Ethics
+
+CL) IEEE Code of Ethics: Actions
+
+1. PUBLIC - Software engineers shall act consistently with the
+
+public interest.
+
+2. CLIENT AND EMPLOYER - Software engineers shall act in a
+
+manner that is in the best interests of their client and employer
+
+consistent with the public interest.
+
+ 
+Continued...
+
+QL) IEEE Code of Ethics: Hierarchy
+
+4. JUDGMENT - Software engineers shall maintain integrity and
+
+independence in their professional judgment.
+
+5. MANAGEMENT - Software engineering managers and leaders
+shall subscribe to and promote an ethical approach to the
+
+management of software development and maintenance.
+
+EE Code of Ethics: Peers
+
+   
+
+- Software engineers shall advance the integrity
+
+| reputation of the profession consistent with the public interest!> “
+Continued...
+
+ 
+
+7. COLLEAGUES - Software engineers shall be fair to and
+
+supportive of their colleagues.
+L) IEEE Code of Ethics: Self
+
+8. SELF - Software engineers shall participate in lifelong learning
+regarding the practice of their profession and shall promote an
+
+ethical approach to the practice of the profession.
+
+ed with CamScanner
+                 
+
+Principles of IEEE Code of Ethics
+
+Q) Act in public interest
+
+LI Act in interest of clients and employers
+LJ Produce quality products
+
+L) Maintain independent judgment
+
+L) Manage ethically
+
+LJ Protect integrity of profession
+
+L) Support colleagues
+
+learning
+
+mate [=3*)
+
+ed with CamScanner
+
+Scann
+ACM Code of Ethics
+
+General moral imperatives: “Asan ACM member] will...”
+
+CL) Contribute to society and human well-being.
+
+() Avoid harm to others.
+QO) Be honest and trustworthy.
+
+C2) Be fair and take action not to discriminate.
+
+Q) Honor property rights including copyrights and patents.
+
+QC) Give proper credit for intellectual property.
+¢
+
+   
+
+spect the_privacy of others.
+
+or confidentiality.
+Specific professional responsibilities: “As an ACM computing
+
+srofessional I will”:
+
+-] Strive to achieve the highest quality, effectiveness and dignity in both the
+
+process and products of professional work.
+_| Acquire and maintain professional competence.
+1 Know and respect existing laws pertaining to professional work.
+_| Accept and provide appropriate professional review.
+
+1 Give comprehensive and thorough evaluations of computer system and their
+
+impacts, including analysis of possible risks.
+
+_! Honor contracts, agreements, and assigned responsibilities.
+Q
+9,
+
+     
+
+ove public understanding of computing and its consequences.
+
+nputing and communication resources only when authorized to do so.
+
+Page
+
+ed with CamScanner
+Compliance with the Code: “Asan ACM member, I will:”
+() Uphold and promote the principles of this Code.
+
+Q) Treat violations of this code as inconsistent with membership in
+
+the ACM.
+
+ 
+                    
+
+Ethical decision making: Case 1
+
+QO) Aliisa database programmer
+
+Large statistical program needed by his company.
+
+Company programmers are encouraged to publicize their work
+LJ Alihas found himselfstuck ona problem
+
+He has persisted at this for several months.
+
+His manager does not recognize complexity of problem.
+
+She insists job be completed in the few days.
+CQ) Aliremembers:
+
+Co-worker had given him source listings of their current work.
+
+Page 14
+
+Scanned with CamScanner
+L) Ali studies these programs
+
+Sees two areas of code which could be directly
+
+incorporated into his own program
+
+He uses segments of code both from his coworker and
+
+from the commercial software
+Q) He does not tell anyone or mention it in the documentation.
+L) He completes the project and turns it in a day ahead of time.
+
+ow does the Code of Ethics help us understand this case?
+
+Page 15
+
+ed with CamScanner
+Applying the code: Case 1
+
+CL) This case highlights issues involving intellectual property
+Q) Ali violated professional ethics in two areas:
+1. Failure to give credit for another’s work
+
+2. Using code from a commercial package that was
+
+copyrighted
+UO) If Ali only “looked” at co-worker’s source code:
+
+Could he then write his own program and still have an
+
+ation to give credit?
+
+    
+
+e should have acknowledged credit in documentation.
+
+Page 16
+Continued...
+
+LI Use of commercia! software code was also not appropriate:
+
+Ali should have checked to determine whether or not
+
+company was authorized to use source code before using it.
+C) In general:
+Desirable to share and exchange intellectual materials
+
+But using software is definitely a violation of code.
+
+Page17
+
+ed with CamScanner
+Ethical decision making: Case 2
+
+Q) Aisha’s company has been hired by a client to build a security system.
+Because of cost overruns, client has decided to opt for a less secure
+
+system.
+L) Aisha believes information they will store is extremely sensitive.
+L] With weak security:
+Employees on workstations could figure out how to access this data.
+Online intruders would also have access
+
+LI Aisha feels strongly that system should be muchmore secure.
+0
+
+     
+
+e has tried to explain the risk.
+
+ould Aisha so? Should sherefuse to buildthe systemas they
+Page18
+
+reqnect?
+
+ed with CamScanner
+                     
+
+Applying the Code: Case 2
+
+() This case highlights issues involving privacy.
+
+CY Company officials:
+
+Have an obligation to protect privacy of their employees. Therefore they should
+not accept inadequate security.
+QO) Aisha’s first obligation:
+
+Attempt to educate company officials
+
+If that fails, she needs to consider her contractual obligations in honoring
+assigned responsibilities,
+¢ don’t have Aisha’s contract, but she may have to choose between her
+
+hh
+fd herbdbligation to honorprivacy and security.
+
+=F
+
+Page 19
+
+ed with CamScanner
+
+Scann
+Ethical decision making: Case 3
+
+LL) A contractoris determining requirements for an employment
+agency.
+L) Client describes what is needed when displaying applications
+
+whose qualifications appear to match those for a particular job
+
+L) Client also further states that names of white applicants are to
+
+be displayed ahead of nonwhites
+
+urther states thatnames of male applicants are to be displayed
+
+  
+
+Page 20
+Applying the Code: Case 3
+
+LJ Thiscase highlights issues involving faimess and discrimination. In this case,
+
+system designer is asked to build a system that, it appears
+
+(JY Will be used to favor white males and discriminate against non-whites and
+
+females
+LL} Fromthis is would appear that:
+
+System designer should not do what he or she is told, plus
+
+Should also point out the problematic nature of what is being requested
+
+and ask client why this is being done
+
+If client answers that they plan to use information to favor white males, then:
+
+mputer professional should refuse to build the system as proposed.
+
+—
+
+Paqe Zz
+
+ed with CamScanner
+   
+
+Ethical decision making: Case 4
+
+L) A software development company has just produced a new software
+package.
+
+L) It incorporates new tax laws and prepares both individual and small busimess
+
+tax returns
+
+L) The president of the company knows that the program has a number of bugs
+
+CL) He also believes the first firm to put this kind of software on the market is
+likely to capture the largest market share.
+
+() The company widely advertises the package.
+
+L) When the product is shipped, it includes a disclaimer of responsibility for
+Q
+LJ The company expects it will seceive a number of complaints,
+queries, and suggestions for modification. The company plans
+to use these to make changes and eventually issue updated,
+
+improved and debugged versions. The president argues that this
+
+is general industry policy:
+
+LJ “Anyone who buys version 1.0 of a program knows this and will
+
+take proper precautions.”
+
+L) Because of bugs, a number of users filed incorrect tax returns
+
+» and were penalized by Rev Canada.
+
+Frage
+
+ye |
+
+a
+
+ed with CamScanner
+Organization
+
+4) Impossible to live in a civilized society without close contact
+
+with many large organizations
+
+() Like schools, universities, public utilities, government and
+local government departments, the Health Service, commercial
+
+and industrial companies, and so on.
+
+LJ In many ways, these organizations resemble each other.
+
+Page3
+
+ed with CamScanner
+Legal Form of An organization
+
+LI Law recognises individuals
+= Enter into contracts
+
+= Tried for crimes
+
+» Sued
+
+= Act of Parliament impose duties on the individual etc
+
+UL Incorporation
+
+= Making into a body (Corpus)
+
+     
+
+ion should be given a legal existence, through a
+
+rocess known as incorporation. ey
+
+ 
+Incorporated Organisations
+
+L) Incorporated
+# Royal Charters —-IET, BCS, IMechE, RAeS
+* Acts of Parliament — Ceredigion County Council
+
+e ." Public or Private Companies (Companies Act 1985 and 1989)
+Types of Commercial Organizations
+
+1. Sole Trader
+Local Shop, Plumber
+2. Partnership
+Doctors, Lawyers, Accountants
+
+3. Limited Company
+
+Private or Public
+
+ 
+
+ 
+Sole Trader
+
+L) Individual
+
+" Sole person responsible for all debts
+
+ 
+
+" All assets including “private” at risk
+
+" Does NOT have to be the only employee
+
+ 
+
+ 
+Partnership
+
+L) Two or More People
+
+L) All at Risk. Similar to sole trader but >1 person
+L} Normally professionals
+
+= Doctors
+
+= Lawyers
+
+=" Accountants
+
+U Inflexible in Normal Commercial World
+
+     
+
+t of key Personnel
+
+a
+
+Pages
+Companies
+
+C) Public or Private Companies
+
+# Public — Public Limited Company (PLC)
+(Trades shares to public
+
+= Private —Company Limited (Co Ltd)
+LiCannot sell shares to Public
+LiCan sell shares privately
+ULimited by Shares
+L41Commercial Companies
+UjLimited by Guarantee
+UCharities, Profiessional Bodies
+9 ChUnlimited Companies)
+
+  
+
+x:
+
+jim]
+
+(
+
+sa)
+
+ 
+Companies (Contd)
+
+LI Independent Existence
+
+LJ Divided
+= Shareholders
+
+= Or Members of the Company
+
+LI Normally > 1 shareholder
+
+el 1992 Act allows single member
+
+ 
+          
+
+Company Constitution
+
+1. Share Capital
+2. Company Constitution
+
+3. Directors responsibilities
+
+age 4 Le
+
+ed with CamScanner
+
+Scann
+1. Share Capital
+
+() Shareholders (Subscribers) own Company
+CL) At start of Company
+= Authorised share capit?.
+LJNumber & Nominal (par) V .tue
+
+CiSay 100 shares @ £1
+
+LIIf debts > assets Shareholder lose shares
+
+ 
+2. Company Constitution
+
+a. Memorandum of Association
+
+a. Controls External Relations
+
+b. Articles of Association
+
+a. Control Internal Relations
+
+hareholders Agreement
+
+ 
+
+ 
+a. Memorandum of Association
+
+LI Company Name
+
+= Restrictions
+
+LI Country of Registration
+= England & Wales, Wales, Scotland
+
+LI Obiects of Company
+
+= Companies Act 1989 allow general commercial company
+
+LIA Liability Clause
+
+* Liability of members is limited
+
+   
+
+5 hare value
+
+Yominal Share Value and Number |
+Page 14
+< viD-202
+
+A
+D. Al
+
+C) Rules of Share capital
+
+L) Transfer of Shares
+
+C) Meetings of Members
+
+LJ Rules Governing Directors’ Appointments
+Q) Power of Directors
+
+L) Dividends and Reserves
+
+ih .
+
+Page 15
+
+o=
+i
+
+ 
+
+Scanned with CamScanner
+c. Shareholders Agreements
+
+L) Protect interests of minor shareholders
+LU Article of Association
+
+= Changed at General Meeting
+
+=" Needs 75% majority
+LJ Agreement Between Shareholders
+
+= All must sign
+
+= Can govern way voting is done
+
+ 
+3. Directors Responsibilities
+
+LJ Directors Elected by Shareholders
+= Act In best Interest of Company
+
+= Honest
+
+" Declare Interests
+
+= Aware of Company’s Trading Position
+
+Executive & Non-Executive Directors
+
+L) Company Secretary
+(
+
+Could be Director
+
+iste
+Functional Units of An Organization
+
+Five groups of functions exist in almost any organization:
+
+1.Production: Activities that directly contribute to creating the products or
+
+services that the company sells.
+
+2.Quality management: Quality - :tivities necessary to ensure that quality of
+
+the products and services produced s maintained at the agreed level.
+
+3.Sales and Marketing: Sales is concerned directly with selling the product,
+
+while marketing is concerned with establishing the environment in which the
+
+product is sold (e.g. through advertising) and with deciding how the range of
+
+ 
+
+ 
+
+Page’
+
+ed with CamScanner
+5. Research and development:
+How can the company do better the things that it already
+
+Does and what other things might it profitably be doing?
+
+Geographical organization:
+
+ 
+
+An organization operates in more than one country.
+
+The most obvious examples are in the field of food and drink.
+
+maele(s ik)
+
+ 
+
+ed with CamScanner
+Centralization v. decentralization
+
+L) In a centralized organization, the detailed operational decisions
+
+are taken at the centre.
+
+L) In a decentralized organization, as many details as possible are
+
+settled at local level.
+
+ 
+Management
+
+() Mangers of organization can project manager, production
+
+manager, general manager & Corporate manager.
+
+QO) The goal of project managers is to produce systems which meet
+
+the users’ needs, on time and within budget.
+
+L) Their main concerns are therefore planning, progress
+monitoring, acquisition and allocation of resources, and quality
+
+control.
+
+e tools of their trade are bar charts, activity networks, critical
+
+  
+
+Page 21
+
+ed with CamScanner
+LJ Production Manager: Production management is concerned with
+
+ 
+
+productivity, efficiency and maintenance of quality.
+
+LJ General Manager: General or corporate management deals with
+
+the management of the organization as a whole.
+LJ Corporate Manager:
+
+Corporate managers are responsible for the long-term strategy of the
+
+organization.
+
+Monitor the overall performance of the organization and be prepared
+
+ta handle serious problems which arise anywhere in the organization.
+
+ 
+
+Page 22
+
+ed with CamScanner
+Introduction
+
+CL) However good the quality of its products or services, no
+organization can be successful for any length of time unless its
+
+finances are soundly managed.
+
+LJ Many young software engineers are attracted by the idea of
+
+starting their own company.
+
+ 
+Need of Capital
+
+LJ A group of new or recent graduates in computing decide to set
+up their own company to provide software services and their
+
+intention is typically to offer contract hire services
+
+(J A client is unlikely to pay an invoice within less than one month
+of receiving it. Some large companies are notorious for not
+
+paying invoices for as much as six or even twelve months.
+
+L) There will be a need to have some money with which to start
+
+e ,the venture.
+
+ed with CamScanner
+Need of Capital (continued)
+
+CL) The group needs enough cash in hand to be able to live for at
+least three months. Additional money will be needed for the
+
+expenses of starting the company
+
+LI For large projects or packages, a much larger sum of money is
+likely to be needed while they are being developed because
+
+there will be no revenue coming into the company.
+
+ 
+
+Pages
+
+ed with CamScanner
+Need of Capital (continued)
+
+() For starting period cash will be needed for:
+= Salaries
+" rent rates, heating and lighting of the premises used
+" equipment and consumables
+= costs of advertising and marketing the products
+
+= miscellaneous expenses, ranging from company stationery
+
+¢ to travelling expenses
+
+Pages
+
+ed with CamScanner
+Need of Capital (continued)
+
+CL) How does one set about raising this money? The first step is to
+
+produce a business plan.
+L) It typically contains:
+
+= adescription of what the company will be doing, together
+with information to show that it is technically feasible and
+
+that founders of the company have the necessary expertise
+= an assessment of the size of the market and the competition
+
+"8 a prediction of the financial performance of the company
+
+  
+
+Page7
+
+ed with CamScanner
+Sources of funds
+
+L) They can be grouped into:
+= Grants
+
+# Loans
+
+= Sale of Equity
+
+ 
+Grants
+
+O) A grantis a sum of money given to the company; while the
+company is obliged to demonstrate that it has been used for the
+
+purposes for which it was intended, it is not intended that the
+
+grant should ever be paid back to the organization which gave it
+
+W) The availability of grants and other help for new companies
+depends very much on where the company is located, how
+many people it expects to employ, and on government policy at
+
+® the time.
+
+   
+
+Pagedy
+
+ed with CamScanner
+Loans
+
+L) A loan is a sum of money lent to the company; interest is
+payable on it, at a rate that may be fixed or variable, and the
+
+loan is usually for a fixed period
+
+LJ The company is liable to pay back the loan and, if the company
+goes into liquidation, the lender is entitled to recover the loan
+
+from the sale of the assets of the company.
+
+LJ In most cases, security 1s required for the loan
+0
+}
+
+   
+
+Page 10
+
+ed with CamScanner
+Sale of Equity
+
+UL) Equity capital is money paid to the company in exchange for a
+
+share in the ownership of the company
+
+CL) Shareholders are at a much greater risk of getting a poor return
+on their capital or even losing it completely than are lenders but,
+in compensation for this, they stand to make a greater profit
+
+than lenders if all goes well
+
+ 
+
+Page 1
+
+ed with CamScanner
+ 
+
+O) A budget is a prediction of the future financial position of an
+
+organization covering , usually, the current or the next financial
+
+year
+
+L) The ordinary manager in a company is, however, much more
+
+concerned with budgeting for income and expenditure
+
+LJ Budgeting is an iterative process
+
+ 
+Budgeting & Monitoring
+
+U) The first version of the budget is likely to show expenditure
+exceeding income, since the operating managers will want to expand
+their operations while the sales and marketing department will not
+wish to give hostages to fortune by being over-optimistic about the
+volume of sales it can generate. Adjustments will have to be made
+repeatedly until a situation is reached in which budgeted sales exceed
+budgeted expenditure with a reasonable profit margin; the
+operational managers are happy that they can service the predicted
+
+© svolume of sales with the budgeted staff levels; andthe salesmen are
+
+  
+
+ey can produce the predicted sales
+
+Page
+
+ed with CamScanner
+Working Capital & Cash Flow
+
+LJ It is perfectly possible for a company to be consistently
+profitable and yet be unable to pay its bills
+
+L} Accounting normally operates on an accrua/ basis
+CL} The value of work in progress
+
+L} It is usual to negotiate stage payments rather than leaving all
+
+payment until the work is completed.
+
+~dage 14
+Working Capital & Cash Flow (continued)
+
+LJ Cash has therefore to be found to cover the gap between what a
+company has to pay out in cash and what it receives in cash—
+working capital
+
+L} A document “cash flow prediction” is the amount of cash
+
+expected to be received an.' disbursed in each of the next twelve
+
+months
+
+CJ The bank specifies the maximum that can be borrowed on an
+
+verdraft but interest is only payable on the amount actually
+
+  
+
+Page 15
+Week 7 Topic: Intellectual Property Rights
+
+Q) Introduction
+
+L) Confidential Information
+
+L} Patents
+
+Q) Copyright
+
+L) Acts permitted in relation to copyright
+
+L) Remedies for breach of Copyright
+
+J Plagiarism
+
+ 
+Introduction
+
+L] Intellectual property rights are often the most valuable assets
+
+ 
+
+owned, used and developed by a software house.
+L) Intellectual property rights include:
+
+" Confidential information
+= Patents
+
+= trade marks
+
+" Designs
+g
+
+Copyrights protecting computer programs
+
+Ooees,
+Introduction (continued)
+
+() They protect information stored by electronic means and all of
+the paperwork which accompanies a program, such as the user
+manual, plus any multimedia packages and most items on the
+
+Web.
+
+LJ Great care should be taken to protect, exploit and enforce
+
+intellectual property
+
+ 
+
+ed with CamScanner
+
+Scann
+Introduction (continued)
+
+CJ The name under which a product is sold may be registered as a
+
+trade mark
+
+LJ the hardware or a process used in its manufacture may be
+
+protected by a patent
+
+LI the look of the product may be registered in the Designs
+Registry
+
+CJ software can be protected by copyright
+
+CL) the know-how which goes into the development of the product
+
+y be ted as confidential information
+
+rage y
+
+ed with CamScanner
+Introduction (continued)
+
+L) Unauthorized use of intellectual property can be stopped by
+injunction and damages may be sought for infringement of
+
+these rights
+(J The law is constantly changing with technological advance
+
+LJ General Agreement on Tariffs and Trade (GATT) concerned
+the protection of intellectual property rights in the face of
+
+widespread piracy of software products
+
+   
+
+eyo
+
+raged
+
+ed with CamScanner
+Confidential Information
+
+Q) Information “which is not public property and public knowledge”
+
+O) Any category of information, from personal confidences, to trade
+secrets and sensitive government information, any or all of which a
+computer scientist might handle in the course of his or her work, or all
+or any of which a firm may want to protect against unauthorized use
+
+or disclosure by others
+
+() Information will be protected only if it is confidential. Non-
+confidential information, unless protected, e.g. by copyright or a
+
+# gatent is deemed to be in the public domain and can be used by
+
+  
+
+Page 7
+
+ed with CamScanner
+Confidential Information
+
+_) Three conditions must be satisfied before an action for breach
+
+of confidence can succeed:
+#® the information must be confidential
+
+# the information must have been disclosed in circumstances
+
+which give rise to an obligation of confidence
+
+= there must be an actual or anticipated unauthorized use or
+
+disclosure of the information
+
+Pages
+
+ 
+
+ed with CamScanner
+             
+
+Week 6 Topic: Human Resource
+Management
+
+Q) Introduction
+
+CL) A model of Human Resource Management
+Q Training and Human Resource Management
+C) Health and Safety at Work
+
+QO) Health and Safety Act 1974
+
+rage 2
+
+ed with CamScanner
+
+Scann
+Introduction
+
+QJ It is a function in organizations designed to maximize employee
+
+performance in service of an employer’s strategic objectives
+
+LL) Management of people, staff training and development with a
+strategic approach suggest that human resource management is
+
+particularly appropriate for software work
+
+ed with CamScanner
+              
+
+A model of human resource management
+
+LI A corresponding commitment to the organization is expected
+from employees. They are therefore autonomous in the sense
+
+of, to some degree, managing themselves.
+
+CL) Human resource management is the responsibility of
+
+all managers
+
+QU) Maximum utilization of human resources available to the
+
+nterprise.
+
+Page 4
+
+ 
+
+Scanned with CamScanner
+ 
+
+1-Long-term, strategic and proactive in style
+
+LI The problems associated with personnel in an information
+technology environment require a disciplined approach to
+establishing numbers of staff; the utilization of personnel; the
+development and education of employees, together with the
+construction of comprehensive human resource management
+policies that are not only responsive to immediate needs but
+also are building blocks for the medium- and long-term
+
+orate requirements
+
+  
+
+Pageo
+
+ 
+
+ed with CamScanner
+2-Commitment to the organization
+
+CJ The real challenge is to shift employee attitudes from mere
+compliance with rules at work to commitment and self
+
+motivation
+
+L) This signifies a commitment to staff development as part of
+the “learning organization” and firm-specific skills that are less
+transferable between firms. Skills include attendance,
+flexibility, responsibility, discipline, identification with the
+
+mpany and, crucially, work-rate.
+
+  
+
+Page6
+
+ 
+
+ed with CamScanner
+                 
+
+Week 4 Topic: Anatomy of Software House
+
+Q) Introduction
+
+L) The Company (Software House)
+LJ Structure of Company
+
+LJ Management of Staff
+
+LJ Producing the budget
+
+LU Monitoring Financial Performance
+
+LJ Long term Planning
+
+rage é
+
+ed with CamScanner
+
+Scann
+Introduction (The Company)
+
+LI A Hypothetical company
+
+LI Syniad Software Ltd was founded some ten years ago by four
+friends.
+
+LJ All four are members of the Board of Directors, along with two
+
+others who were recruited later.
+
+L} The company specializes in the production of bespoke software
+
+for clients who demand work of high quality.
+
+   
+
+niad’s head office is in London. Other offices are in Man-
+
+etherland.
+Page 3
+Operations Director
+
+L) The Operations Director is responsible for all the revenue
+
+earning operations of the company.
+
+L)It is his job to ensure that all projects are completed
+
+satisfactorily
+
+C) And resources are available to carry out the projects that the
+
+company wins;
+
+L) The personnel reports to him.
+Q
+
+   
+
+Fagev
+
+ed with CamScanner
+Technical Director
+
+ 
+
+The Technical Director is responsible for:
+C) Quality management;
+C) Research and development;
+
+L} Marketing at a technical level (e.g. arranging for staff to give
+
+papers at conferences)
+
+LI Technical training (as opposed to training in, say, project
+
+management or presentational skills, which are the
+
+   
+
+of the personnel function).
+
+Ete
+
+ed with CamScanner
+                   
+
+Syniad’s Organizational Structure Type
+
+LJ shows elements of all three of the types of organizational
+
+structure.
+1. Functional division of responsibilities
+
+2. Geographical element (represented by the director responsible
+
+for overseas operations)
+
+3. Centralization and decentralization has little meaning
+(Centralized policies and procedures are widely used but they
+ve usually been developed within one part of the company and
+
+een adopted by general consent.
+
+Page /
+
+ed with CamScanner
+
+Scann
+Centralized vs. Decentralized
+] In theory, staff have a sense of belonging to a group and regard their
+
+group manager as the manager who is permanently responsible for
+
+their career in the company.
+
+] In practice, because projects often require expertise from more than
+one group, staff often find themselves working on projects for
+
+groups other than the one to which they belong.
+
+JIn a company of the size of Syniad, the distinction between
+
+centralization and decentralization has little meaning. Centralizec
+q
+
+      
+
+ies and procedures are widely used but they have usually beer
+
+d within one part of the company and have been adopted by
+
+; ee: (@(=sto}
+ceneral cancant ,
+Management of staff
+
+CL) New employees vs. Old employees.... OUTSIDER
+Staff Appraisals:
+
+(} Employees’ achievements and contributions to the company
+
+were properly recorded;
+
+L) Staff knew what was expected of them and what they needed to
+
+achieve in order to gain promotion;
+
+L) Proper plans for training and career development were made and
+(
+
+       
+
+ularly reviewed;
+
+ees were aware of the company’s opinion of their
+
+nerformance. Pages
+Producing the Budget
+
+L) Staff in the company are broadly divided into
+
+ 
+
+1. Technical or Revenue earning staff and
+
+2. Nonrevenue earning staff
+
+ 
+
+L) Both require different capital to work.
+
+ 
+                 
+
+Monitoring Financial Performance
+LI Monitoring Syniad’s performance against the budget should, in
+principle, be straightforward.
+
+QC) Each month, the income and expenditure under the various
+heads are compared and, if significant deviations are observed,
+
+corrective action is taken.
+C) In practice, this simple procedure presents many difficulties.
+
+C1 To monitor financial performance, company focuses on;
+
+Cost& Revenue
+
+Pagei1
+
+ 
+
+Scanned with CamScanner
+1. Costs and revenue
+
+          
+
+L) A major problem is caused by random fluctuations, themselves
+
+the product of many individual factors, for example:
+1. Annual Budgetn Staffhiring
+2. Large projects cause deviation in Budget
+
+Fixed Price Project Estimation
+
+maze [=35
+
+ed with CamScanner
+
+Scann
+2. Project costing
+
+L) Because of these difficulties in monitoring the overall
+performance of the company, Syniad also tries to monitor the
+financial performance of individual projects, through a project
+
+costing system.
+
+L) The costs and revenue of each project are calculated each
+month and the cumulative gross margin (i.e. the difference
+between total costs and total revenue to date on the project)
+
+®° calculated as a percentage of the total revenue.
+
+  
+
+system does not work well.
+
+eae (4K)
+
+ed with CamScanner
+3. Sales (Continued...)
+
+The confirmed sales report shows, for each grade, the number
+of staff in that grade who are committed to contracts in each of
+the following twelve months and the total expected revenue
+
+from that grade in each month.
+
+The sales prospects report shows, for each sales prospect, the
+
+potential value of the sale, its likelihood and the likely start
+
+ 
+
+date.
+
+Lsf-(e[= 4b)
+  
+   
+
+3. Sales
+
+() The budgeted increase in revenue derives partly from increased
+charge rates, partly from better staff utilization and partly from
+
+an increased number of staff.
+
+Q) All these factors are influenced by the forward sales position,
+that is by the staff required and the rates earned on the work to
+
+which the company is committed in the coming months.
+
+LI Two reports are used for assessing and monitoring the sales
+
+) osition.
+
+Page
+
+ed with CamScanner
+Long Term Planning
+
+L) Strategic Planning for future
+
+O) The ability to plan strategically and to achieve strategic objectives
+
+is the hallmark of well run, successful companies.
+L) Strategic planning in Syniad has two related aspects.
+1. The first is to identify appropriate long-term goals
+
+2. Second is to identify and formulate plans to overcome
+
+those problems which are inhibiting it from attaining these
+
+Lege [=|
+
+ed with CamScanner
+Conclusions
+
+C) Syniad, despite its problems, is a successful and well-managed
+
+company, however, they need to go multinational.
+
+C) Do directors have the expertise to manage this transition or to
+run the resulting company?(agreements for collaboration with
+
+comparable companies)
+
+CJ Syniad has now reached a point where it can no longer thrive as
+
+a private company and its future must, inevitably, be very
+
+ 
+
+Page 17
+           
+
+Long Term Planning involves
+
+QO) Expansion Plans
+CL) Company Image
+L) Product mix (Fee based revenue vs. Package Software)
+
+(J Finance (under-capitalization)
+
+Page 7
+
+ed with CamScanner
+
+Scann
+
